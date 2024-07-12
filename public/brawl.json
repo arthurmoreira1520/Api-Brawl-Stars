@@ -1,0 +1,125 @@
+[
+  {
+      "nome": "Shelly",
+      "id": 16000000,
+      "poder": 10,
+      "imagem": "https://vignette.wikia.nocookie.net/brawlstars/images/b/b7/Brawl_Stars_Shelly_Comunicador.png/revision/latest?cb=20190105195018&path-prefix=es"
+  },
+  {
+      "nome": "Colt",
+      "id": 16000001,
+      "poder": 10,
+      "imagem": "https://www.brawlstarsdicas.com.br/wp-content/uploads/2021/04/colt-brawl-stars-skin-padrao-811x1024.png"
+  },
+  {
+      "nome": "Bull",
+      "id": 16000002,
+      "poder": 10,
+      "imagem": "https://www.brawlstarsdicas.com.br/wp-content/uploads/2017/06/bull-brawl-stars-render.png"
+  },
+  {
+      "nome": "Brock",
+      "id": 16000003,
+      "poder": 10,
+      "imagem": "https://www.brawlstarsdicas.com.br/wp-content/uploads/2017/06/brock-brawl-stars-skin-brock-de-possante.png"
+  },
+  {
+      "nome": "Rico",
+      "id": 16000004,
+      "poder": 10,
+      "imagem": "https://happytimegames.com/wp-content/uploads/2019/06/Screenshot_4.png"
+  },
+  {
+      "nome": "Spike",
+      "id": 16000005,
+      "poder": 10,
+      "imagem": "https://vignette.wikia.nocookie.net/brawlstars/images/8/8e/Spike_Skin-Default.png/revision/latest?cb=20181219143234&path-prefix=fr"
+  },
+  {
+      "nome": "Barley",
+      "id": 16000006,
+      "poder": 10,
+      "imagem": "https://vignette.wikia.nocookie.net/brawlstars/images/3/3c/Barley_Skin-Default.png/revision/latest?cb=20181212051919"
+  },
+  {
+      "nome": "Jessie",
+      "id": 16000007,
+      "poder": 10,
+      "imagem": "https://www.chillbs.com/wp-content/uploads/2020/08/Jessie-Veraniega.png"
+  },
+  {
+      "nome": "Nita",
+      "id": 16000008,
+      "poder": 10,
+      "imagem": "https://vignette.wikia.nocookie.net/brawlstars/images/5/58/Nita.png/revision/latest?cb=20200610193326&path-prefix=pt"
+  },
+  {
+      "nome": "Map 1",
+      "dificuldade": "Fácil",
+      "imagem": "https://vignette.wikia.nocookie.net/brawlstars/images/0/06/Crystal_Arcade-Map.png/revision/latest?cb=20200910162428"
+  },
+  {
+      "nome": "Map 2",
+      "dificuldade": "Médio",
+      "imagem": "https://tse3.mm.bing.net/th?id=OIP.od_ml4zQoxkeaZcrxUWpzwHaL_&pid=Api&P=0&h=180"
+  },
+  {
+      "nome": "Map 3",
+      "dificuldade": "Difícil",
+      "imagem": "https://tse4.mm.bing.net/th?id=OIP.sJzZ0XnSR96_wYN55mRmYAHaEK&pid=Api&P=0&h=180"
+  },
+  {
+      "nome": "Map 4",
+      "dificuldade": "Muito Difícil",
+      "imagem": "https://tse4.mm.bing.net/th?id=OIP.ypUuC5gspmCrz17Ad3WdWAHaHh&pid=Api&P=0&h=180"
+  },
+  {
+      "nome": "Map 5",
+      "dificuldade": "Fácil",
+      "imagem": " https://tse2.mm.bing.net/th?id=OIP.kXhz-Zllw4xrqCi04R9FVAHaHh&pid=Api&P=0&h=180"
+  },
+  {
+      "nome": "Map 6",
+      "dificuldade": "Médio",
+      "imagem": "https://i.redd.it/wzgq22dpz3z41.jpg"
+  },
+  {
+      "nome": "Map 7",
+      "dificuldade": "Difícil",
+      "imagem": "https://img.clasher.us/images/full/5e5e5321027f107696d5e946.jpg"
+  },
+  {
+      "nome": "Map 8",
+      "dificuldade": "Muito Difícil",
+      "imagem": "https://tse1.mm.bing.net/th?id=OIP.2TWrHLiE7xaW83vgQHsCewHaEW&pid=Api&P=0&h=180"
+  },
+  {
+      "nome": "Map 9",
+      "dificuldade": "Fácil",
+      "imagem": "https://vignette.wikia.nocookie.net/brawlstars/images/0/0d/Brawl-stars-map-hard-rock-mine.png/revision/latest?cb=20180220143426"
+  },
+  {
+      "nome": "Map 10",
+      "dificuldade": "Médio",
+      "imagem": "https://tse2.mm.bing.net/th?id=OIP.B5Afh5cOrgIon1N83GLbXgHaHh&pid=Api&P=0&h=180"
+  },
+
+
+  
+    {
+        "nome": "Frank Keienburg",
+        "area_atuacao": "Game Design"
+    },
+    {
+        "nome": "Ryan Lighton",
+        "area_atuacao": "Programação"
+    },
+    {
+        "nome": "Tommy Francois",
+        "area_atuacao": "Produção"
+    },
+    {
+        "nome": "Seth Allison",
+        "area_atuacao": "Design de Personagens"
+    }
+]
